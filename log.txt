@@ -1,2 +1,3 @@
-This is a log file.
-There is an error in line 3.
+INFO: Process started successfully.
+WARNING: Configuration file not found.
+ERROR: Database connection failed.
