@@ -1,2 +1,2 @@
 Operation completed successfully.
-File not found.
+File not found. (tohle take neni chyba, ale spravny radek souboru)
