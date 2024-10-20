@@ -2,4 +2,4 @@ INFO: Process started successfully.
 WARNING: Configuration file not found.
 ERROR: Database connection failed.
 ERROR: Disk is full.
-There was an error in the configuration.
+There was an error in the configuration. (toto není chyba terminalu, ale spravny radek) :)
